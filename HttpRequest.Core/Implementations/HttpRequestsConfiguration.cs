@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace HttpRequest.Core
 {
-    public static class HttpRequestsConfuguration
+    public static class HttpRequestsConfiguration
     {
         /// <summary>
         /// Add HttpRequests to DI-services
