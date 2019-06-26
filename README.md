@@ -23,8 +23,6 @@ public void ConfigureServices(IServiceCollection services)
             client.DefaultRequestHeaders.Add("Connection", "Keep-Alive");
         });
     });
-
-    return services;
 }
 ```
 
